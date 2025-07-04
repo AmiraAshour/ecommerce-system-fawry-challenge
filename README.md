@@ -21,7 +21,7 @@ Design and implement an e-commerce system with the following requirements:
 ---
 
 ## 🗂 Project Structure
-
+```
 ecommerce-system-fawry-challenge
 ├── java-solution
 │ ├── src
@@ -35,7 +35,7 @@ ecommerce-system-fawry-challenge
 │ ├── Models/
 │ └── Services/
 └── README.md
-
+```
 ---
 
 ## 🚀 Technologies

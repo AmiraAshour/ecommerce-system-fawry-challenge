@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\myproject\\E-CommerceSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFB34C8-D9BB-464B-A270-EDECC3C37D12}|E-CommerceSystem\\E-CommerceSystem.csproj|d:\\myproject\\e-commercesystem\\e-commercesystem\\models\\shippingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFB34C8-D9BB-464B-A270-EDECC3C37D12}|E-CommerceSystem\\E-CommerceSystem.csproj|solutionrelative:e-commercesystem\\models\\shippingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFB34C8-D9BB-464B-A270-EDECC3C37D12}|E-CommerceSystem\\E-CommerceSystem.csproj|d:\\myproject\\e-commercesystem\\e-commercesystem\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFB34C8-D9BB-464B-A270-EDECC3C37D12}|E-CommerceSystem\\E-CommerceSystem.csproj|solutionrelative:e-commercesystem\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFB34C8-D9BB-464B-A270-EDECC3C37D12}|E-CommerceSystem\\E-CommerceSystem.csproj|d:\\myproject\\e-commercesystem\\e-commercesystem\\models\\checkoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFB34C8-D9BB-464B-A270-EDECC3C37D12}|E-CommerceSystem\\E-CommerceSystem.csproj|solutionrelative:e-commercesystem\\models\\checkoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFB34C8-D9BB-464B-A270-EDECC3C37D12}|E-CommerceSystem\\E-CommerceSystem.csproj|d:\\myproject\\e-commercesystem\\e-commercesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFB34C8-D9BB-464B-A270-EDECC3C37D12}|E-CommerceSystem\\E-CommerceSystem.csproj|solutionrelative:e-commercesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFB34C8-D9BB-464B-A270-EDECC3C37D12}|E-CommerceSystem\\E-CommerceSystem.csproj|d:\\myproject\\e-commercesystem\\e-commercesystem\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFB34C8-D9BB-464B-A270-EDECC3C37D12}|E-CommerceSystem\\E-CommerceSystem.csproj|solutionrelative:e-commercesystem\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFB34C8-D9BB-464B-A270-EDECC3C37D12}|E-CommerceSystem\\E-CommerceSystem.csproj|d:\\myproject\\e-commercesystem\\e-commercesystem\\models\\expirableproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFB34C8-D9BB-464B-A270-EDECC3C37D12}|E-CommerceSystem\\E-CommerceSystem.csproj|solutionrelative:e-commercesystem\\models\\expirableproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFB34C8-D9BB-464B-A270-EDECC3C37D12}|E-CommerceSystem\\E-CommerceSystem.csproj|d:\\myproject\\e-commercesystem\\e-commercesystem\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFB34C8-D9BB-464B-A270-EDECC3C37D12}|E-CommerceSystem\\E-CommerceSystem.csproj|solutionrelative:e-commercesystem\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFB34C8-D9BB-464B-A270-EDECC3C37D12}|E-CommerceSystem\\E-CommerceSystem.csproj|d:\\myproject\\e-commercesystem\\e-commercesystem\\models\\shippableproduct .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFB34C8-D9BB-464B-A270-EDECC3C37D12}|E-CommerceSystem\\E-CommerceSystem.csproj|solutionrelative:e-commercesystem\\models\\shippableproduct .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFB34C8-D9BB-464B-A270-EDECC3C37D12}|E-CommerceSystem\\E-CommerceSystem.csproj|d:\\myproject\\e-commercesystem\\e-commercesystem\\models\\expirableshippableproduct .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFB34C8-D9BB-464B-A270-EDECC3C37D12}|E-CommerceSystem\\E-CommerceSystem.csproj|solutionrelative:e-commercesystem\\models\\expirableshippableproduct .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFB34C8-D9BB-464B-A270-EDECC3C37D12}|E-CommerceSystem\\E-CommerceSystem.csproj|d:\\myproject\\e-commercesystem\\e-commercesystem\\models\\ishippable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFB34C8-D9BB-464B-A270-EDECC3C37D12}|E-CommerceSystem\\E-CommerceSystem.csproj|solutionrelative:e-commercesystem\\models\\ishippable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CheckoutService.cs",
+              "DocumentMoniker": "D:\\myproject\\E-CommerceSystem\\E-CommerceSystem\\Models\\CheckoutService.cs",
+              "RelativeDocumentMoniker": "E-CommerceSystem\\Models\\CheckoutService.cs",
+              "ToolTip": "D:\\myproject\\E-CommerceSystem\\E-CommerceSystem\\Models\\CheckoutService.cs",
+              "RelativeToolTip": "E-CommerceSystem\\Models\\CheckoutService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwDsAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T13:13:04.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\myproject\\E-CommerceSystem\\E-CommerceSystem\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "E-CommerceSystem\\Models\\Cart.cs",
+              "ToolTip": "D:\\myproject\\E-CommerceSystem\\E-CommerceSystem\\Models\\Cart.cs",
+              "RelativeToolTip": "E-CommerceSystem\\Models\\Cart.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T12:51:26.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShippingService.cs",
+              "DocumentMoniker": "D:\\myproject\\E-CommerceSystem\\E-CommerceSystem\\Models\\ShippingService.cs",
+              "RelativeDocumentMoniker": "E-CommerceSystem\\Models\\ShippingService.cs",
+              "ToolTip": "D:\\myproject\\E-CommerceSystem\\E-CommerceSystem\\Models\\ShippingService.cs",
+              "RelativeToolTip": "E-CommerceSystem\\Models\\ShippingService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwB4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T12:47:08.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\myproject\\E-CommerceSystem\\E-CommerceSystem\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "E-CommerceSystem\\Models\\Customer.cs",
+              "ToolTip": "D:\\myproject\\E-CommerceSystem\\E-CommerceSystem\\Models\\Customer.cs",
+              "RelativeToolTip": "E-CommerceSystem\\Models\\Customer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T12:27:11.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\myproject\\E-CommerceSystem\\E-CommerceSystem\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "E-CommerceSystem\\Models\\Product.cs",
+              "ToolTip": "D:\\myproject\\E-CommerceSystem\\E-CommerceSystem\\Models\\Product.cs",
+              "RelativeToolTip": "E-CommerceSystem\\Models\\Product.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T11:09:33.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExpirableShippableProduct .cs",
+              "DocumentMoniker": "D:\\myproject\\E-CommerceSystem\\E-CommerceSystem\\Models\\ExpirableShippableProduct .cs",
+              "RelativeDocumentMoniker": "E-CommerceSystem\\Models\\ExpirableShippableProduct .cs",
+              "ToolTip": "D:\\myproject\\E-CommerceSystem\\E-CommerceSystem\\Models\\ExpirableShippableProduct .cs",
+              "RelativeToolTip": "E-CommerceSystem\\Models\\ExpirableShippableProduct .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T12:19:49.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IShippable.cs",
+              "DocumentMoniker": "D:\\myproject\\E-CommerceSystem\\E-CommerceSystem\\Models\\IShippable.cs",
+              "RelativeDocumentMoniker": "E-CommerceSystem\\Models\\IShippable.cs",
+              "ToolTip": "D:\\myproject\\E-CommerceSystem\\E-CommerceSystem\\Models\\IShippable.cs",
+              "RelativeToolTip": "E-CommerceSystem\\Models\\IShippable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T12:18:28.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShippableProduct .cs",
+              "DocumentMoniker": "D:\\myproject\\E-CommerceSystem\\E-CommerceSystem\\Models\\ShippableProduct .cs",
+              "RelativeDocumentMoniker": "E-CommerceSystem\\Models\\ShippableProduct .cs",
+              "ToolTip": "D:\\myproject\\E-CommerceSystem\\E-CommerceSystem\\Models\\ShippableProduct .cs",
+              "RelativeToolTip": "E-CommerceSystem\\Models\\ShippableProduct .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T12:13:15.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExpirableProduct.cs",
+              "DocumentMoniker": "D:\\myproject\\E-CommerceSystem\\E-CommerceSystem\\Models\\ExpirableProduct.cs",
+              "RelativeDocumentMoniker": "E-CommerceSystem\\Models\\ExpirableProduct.cs",
+              "ToolTip": "D:\\myproject\\E-CommerceSystem\\E-CommerceSystem\\Models\\ExpirableProduct.cs",
+              "RelativeToolTip": "E-CommerceSystem\\Models\\ExpirableProduct.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T12:01:44.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\myproject\\E-CommerceSystem\\E-CommerceSystem\\Program.cs",
+              "RelativeDocumentMoniker": "E-CommerceSystem\\Program.cs",
+              "ToolTip": "D:\\myproject\\E-CommerceSystem\\E-CommerceSystem\\Program.cs",
+              "RelativeToolTip": "E-CommerceSystem\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T11:07:25.916Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+D:\myproject\E-CommerceSystem\E-CommerceSystem\bin\Debug\E-CommerceSystem.exe.config
+D:\myproject\E-CommerceSystem\E-CommerceSystem\bin\Debug\E-CommerceSystem.exe
+D:\myproject\E-CommerceSystem\E-CommerceSystem\bin\Debug\E-CommerceSystem.pdb
+D:\myproject\E-CommerceSystem\E-CommerceSystem\obj\Debug\E-CommerceSystem.csproj.AssemblyReference.cache
+D:\myproject\E-CommerceSystem\E-CommerceSystem\obj\Debug\E-CommerceSystem.csproj.CoreCompileInputs.cache
+D:\myproject\E-CommerceSystem\E-CommerceSystem\obj\Debug\E-CommerceSystem.exe
+D:\myproject\E-CommerceSystem\E-CommerceSystem\obj\Debug\E-CommerceSystem.pdb

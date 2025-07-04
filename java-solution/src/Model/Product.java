@@ -1,6 +1,8 @@
 package Model;
 
-public class Product {
+import interfaces.IProduct;
+
+public class Product implements IProduct {
     protected String name;
     protected double price;
     protected int quantity;
@@ -21,7 +23,5 @@ public class Product {
     public void reduceQuantity(int amount){
         quantity-=amount;
     }
-    public  boolean isExpired(){
-        return false;
-    }
+
 }

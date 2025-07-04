@@ -1,6 +1,8 @@
 package Model;
 
-public class ShippableProduct extends Product implements Shippable{
+import interfaces.IShippable;
+
+public class ShippableProduct extends Product implements IShippable {
     private double weight;
     public ShippableProduct(String name, double price, int quantity,double weight) {
         super(name, price, quantity);
